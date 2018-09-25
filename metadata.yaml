@@ -1,0 +1,27 @@
+_repo: The-Letters-of-a-Portuguese-Nun_57403
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Prestage, Edgar
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '37867'
+    url: http://www.gutenberg.org/2009/agents/37867
+creator:
+  author:
+    agent_name: Alcoforado, Marianna
+    gutenberg_agent_id: '49367'
+    url: http://www.gutenberg.org/2009/agents/49367
+description: ''
+gutenberg_issued: '2018-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57403'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Letters of a Portuguese Nun
+url: http://www.gutenberg.org/ebooks/57403
