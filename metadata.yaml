@@ -7,12 +7,17 @@ contributor:
     deathdate: 1951
     gutenberg_agent_id: '37867'
     url: http://www.gutenberg.org/2009/agents/37867
+covers:
+- cover_type: archival
+  image_path: 57403-h/images/cover.jpg
 creator:
   author:
     agent_name: Alcoforado, Marianna
     gutenberg_agent_id: '49367'
     url: http://www.gutenberg.org/2009/agents/49367
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57403#The-Letters-of-a-Portuguese-Nun
 gutenberg_issued: '2018-06-26'
 gutenberg_type: Text
 identifiers:
